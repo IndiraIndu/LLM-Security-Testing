@@ -1,0 +1,26 @@
+Custom License Agreement for LLM Security Testing
+
+Copyright (c) 2025 
+
+This repository contains potentially harmful code intended for **educational, research, and testing purposes only**. By accessing and using this repository, you acknowledge the following terms:
+
+1. **Limited Use**: You are permitted to view, clone, or fork this repository **only for educational, research, and testing purposes**.
+   
+2. **No Liability**: The code contained in this repository is provided **"as is"** without any warranties, express or implied. You use this code at your own risk, and the repository creator shall not be held liable for any consequences, including but not limited to data loss, system damage, or any form of malicious activity caused by using the code.
+
+3. **No Unauthorized Distribution**: You may **not use this code for malicious purposes** or distribute it outside the scope of research or testing environments. The repository is not intended to be used to exploit or harm others.
+
+4. **Disclaimers**:
+   - The code may contain **malicious content** designed for testing AI or cybersecurity systems.
+   - Use this repository **at your own risk**, and always verify the code's safety and compliance with your local laws before executing it.
+   - **Do not run this code on production systems, networks, or systems you do not own.**
+
+5. **Ethical Use**: This repository is intended for individuals with ethical intent and knowledge of the potential consequences. You are responsible for ensuring that you do not engage in **illegal activities** or cause harm to others.
+
+6. **Termination of Rights**: If you do not comply with the terms of this license, your rights to use, clone, or modify this repository will be terminated immediately.
+
+---
+
+By using this repository, you acknowledge and accept the terms outlined above.
+
+If you do not agree to the terms, do not access or use the repository.
